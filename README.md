@@ -1,4 +1,4 @@
-### evolucao-internet-ar
+# evolucao-internet-ar
 
 ## Resumo do conteúdo
 Analise dos dados de acesso à internet na Argentina (+ comparação com os outros top7 países em acessos) usando dados do WorldBank.
@@ -21,9 +21,9 @@ https://www.indec.gob.ar/ftp/cuadros/sociedad/accesos_internet.xls
 
 
 ## Pastas
--**WorldBank:** contém o script python para poder puxar os dados de indicadores dos países e o CSV gerado a partir do scipt
--**Censo:** contém os CSVs baixados do IDEC (Instituto Nacional de Estadística y Censos de la República Argentina)
--**Bases:** contém as bases CSV usadas no dashboard
--**Dashboard:** contém o link e um PDF do dashboard
+- **WorldBank:** contém o script python para poder puxar os dados de indicadores dos países e o CSV gerado a partir do scipt 
+- **Censo:** contém os CSVs baixados do IDEC (Instituto Nacional de Estadística y Censos de la República Argentina)
+- **Bases:** contém as bases CSV usadas no dashboard
+- **Dashboard:** contém o link e um PDF do dashboard
 
 
