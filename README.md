@@ -24,6 +24,7 @@ https://www.indec.gob.ar/ftp/cuadros/sociedad/accesos_internet.xls
 - **WorldBank:** contém o script python para poder puxar os dados de indicadores dos países e o CSV gerado a partir do scipt 
 - **Censo:** contém os CSVs baixados do IDEC (Instituto Nacional de Estadística y Censos de la República Argentina)
 - **Bases:** contém as bases CSV usadas no dashboard
-- **Dashboard:** contém o link e um PDF do dashboard
-
-
+- **Dashboard:** contém um PDF do dashboard
+  
+## Dashboard
+link: https://lookerstudio.google.com/reporting/dd2454e1-26b6-4b7c-bbc6-43de89d150ec
